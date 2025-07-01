@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Arousal Monitor</string>
+	<key>CFBundleExecutable</key>
+	<string>ArousalMonitor</string>
+	<key>CFBundleIconFile</key>
+	<string>icon-windowed.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.skulltech.arousalmonitor</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>ArousalMonitor</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>3.0</string>
+	<key>CFBundleVersion</key>
+	<string>3.0.0</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>L’app utilizza il Bluetooth per connettersi alla fascia Coospo HW9 e leggere HR e RR.</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>

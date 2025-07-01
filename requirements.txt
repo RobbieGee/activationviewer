@@ -1,0 +1,9 @@
+# BLE
+bleak>=0.20.0
+# Qt6 GUI
+PySide6>=6.5.0
+# Grafici veloci
+pyqtgraph>=0.13.0
+# Manipolazione dati
+numpy>=1.23.0
+qasync>=0.27.1
